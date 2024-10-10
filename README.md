@@ -1,6 +1,7 @@
 Introducere în Machine Learning în Dezvoltare Web
 
  Introducere în ML și Python
+ 
 --Introducere în Python: tipuri de date, structuri de date (liste, dicționare)
 --Instalarea Python și a librăriilor necesare (scikit-learn, pandas, Jupyter Notebooks)
 --Crearea și rularea primului notebook Jupyter
