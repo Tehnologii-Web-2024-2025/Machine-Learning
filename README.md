@@ -1,4 +1,4 @@
-<title>Introducere în Machine Learning în Dezvoltare Web</title>
+<h1>Introducere în Machine Learning în Dezvoltare Web</h1>
 
  <h2>Introducere în ML și Python</h2>
  
