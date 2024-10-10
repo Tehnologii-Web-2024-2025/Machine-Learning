@@ -1,6 +1,6 @@
-Introducere în Machine Learning în Dezvoltare Web
+<title>Introducere în Machine Learning în Dezvoltare Web</title>
 
- Introducere în ML și Python
+ <h2>Introducere în ML și Python</h2>
  
 --Introducere în Python: tipuri de date, structuri de date (liste, dicționare)
 
@@ -11,7 +11,7 @@ Introducere în Machine Learning în Dezvoltare Web
 --Ce este Machine Learning? Tipuri de ML (supravegheat, nesupravegheat)
 
 
- Explorarea și Preprocesarea Datelor
+ <h2>Explorarea și Preprocesarea Datelor</h2>
  
 --Importarea datelor și manipularea acestora cu pandas
 
@@ -22,7 +22,7 @@ Introducere în Machine Learning în Dezvoltare Web
 --Noțiuni de bază despre normalizare și standardizare
 
 
- Algoritmi de Bază în Machine Learning
+ <h2>Algoritmi de Bază în Machine Learning</h2>
  
 --Regresia liniară 
 
@@ -33,13 +33,13 @@ Introducere în Machine Learning în Dezvoltare Web
 --Implementarea unui model de clasificare în scikit-learn
 
 
- Crearea și Antrenarea unui model ML
+ <h2>Crearea și Antrenarea unui model ML</h2>
  
 --Implementarea unui model ML
 
 --Evaluarea și interpretarea rezultatelor
 
- Integrarea Modelului ML într-o Aplicație Web
+ <h2>Integrarea Modelului ML într-o Aplicație Web</h2>
  
 --Introducere în Flask și crearea unei aplicații web de bază
 
